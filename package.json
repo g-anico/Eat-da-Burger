@@ -1,0 +1,27 @@
+{
+  "name": "Eat-da-Burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-anico/Eat-da-Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-anico/Eat-da-Burger/issues"
+  },
+  "homepage": "https://github.com/g-anico/Eat-da-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1",
+    "sequelize": "^4.8.0"
+  }
+}
