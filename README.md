@@ -1,7 +1,7 @@
 # :hamburger: Eat-da-Burger
 
 
-A burger task list incorporating Node, Express, MYSQL, Handlebars, and ORM.
+A burger task list incorporating Node, Express, MYSQL, Handlebars, and ORM. Deployed to Heroku.
 
 ## Description
 
@@ -14,5 +14,7 @@ When the user puts in a new burger, the name of the burger is inserted into the 
 * body-parser
 * method-override
 * mysql
+
+## Deployment
 
 #### [Eat-da-Burger]( https://mysterious-river-33126.herokuapp.com/)
